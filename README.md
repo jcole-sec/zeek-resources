@@ -13,7 +13,7 @@ Zeek is is a network security monitoring tool that can analyze and log network t
 ## Three Main Ideas
 - Zeek parses both captured and live network traffic and provides enriched output through packet, protocol, and file analyzers.
 - Zeek has a significant range of log outputs that can be leveraged for numerous analytic purposes.
-- Zeek provides several extensibility options through a package manager, integration frameworks, plugings, and several scripting interface options.
+- Zeek provides several extensibility options through a package manager, integration frameworks, plugins, and several scripting interface options.
 
 ## Future Direction
 
