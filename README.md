@@ -3,7 +3,7 @@
 ## General Information
 - Author: Jonathan Cole
 - Date: 12/7/2021
-- Description: The goal of this presentation is to provide you a brief introduction to some of the capabilities of  Zeek, with an aim to provide a better understanding of how it works and introduce some of the ways it can be tailored to fit specific analytic needs.
+- Description: The goal of this presentation is to provide you with a brief introduction to some of the capabilities of  Zeek, with an aim to provide a better understanding of how it works and introduce some of the ways it can be tailored to fit specific analytic needs.
 - Presentation: https://www.youtube.com/watch?v=Zf4nuJ9Q9R0
 
 ## Why You Should Care
@@ -17,7 +17,7 @@ Zeek is is a network security monitoring tool that can analyze and log network t
 
 ## Future Direction
 
-This topics  introduced are meant to survey the capabilities and frameworks that existing with the Zeek tool. Any of the concepts presented  could be expanded on by providing a more in-depth review or detail on how to optimize it for a sepcific analysis environment. Some sample recommendations would be to provide a detail review on the parser functions and analyzers or to review a sample Spicy scripting implementation.
+The topics introduced are meant to survey the capabilities and frameworks that exist with the Zeek tool. Any of the concepts presented could be expanded on by providing a more in-depth review or detail on how to optimize it for a specific analysis environment. Some sample recommendations would be to provide a detailed review of the parser functions and analyzers or to review a sample Spicy scripting implementation.
 
 ## Related Tools
 
