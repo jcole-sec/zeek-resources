@@ -26,6 +26,8 @@ Additional tools related to this type of network security monitoring may include
 - Arkime, https://arkime.com
 
 ## Additional Resources
-- https://github.com/corelight/bro-cheatsheets
-- https://try.zeek.org
+- Zeek Community, https://zeek.org/community
+- Zeek Week (Annual Conference), https://zeek.org/zeekweek2021
+- Log Cheatsheets. https://github.com/corelight/bro-cheatsheets
+- Zeek Scripting Tutorial, https://try.zeek.org
 
