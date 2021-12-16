@@ -5,6 +5,7 @@
 - Date: 12/7/2021
 - Description: The goal of this presentation is to provide you with a brief introduction to some of the capabilities of  Zeek, with an aim to provide a better understanding of how it works and introduce some of the ways it can be tailored to fit specific analytic needs.
 - Presentation: https://www.youtube.com/watch?v=Zf4nuJ9Q9R0
+- Presentation (Extended): https://youtu.be/od8-rz99SU0
 
 ## Why You Should Care
 
